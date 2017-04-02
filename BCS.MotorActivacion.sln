@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCS.MotorActivacion.BusinessLogicLayer", "BCS.MotorActivacion.BusinessLogicLayer\BCS.MotorActivacion.BusinessLogicLayer.csproj", "{9E929999-0711-48D6-836F-BD67AEB16D7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCS.MotorActivacion.DataLogicLayer", "BCS.MotorActivacion.DataLogicLayer\BCS.MotorActivacion.DataLogicLayer.csproj", "{CD095D98-6341-4E7B-A793-DD381111C56F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCS.MotorActivacion.DataAccessLayer", "BCS.MotorActivacion.DataAccessLayer\BCS.MotorActivacion.DataAccessLayer.csproj", "{CD095D98-6341-4E7B-A793-DD381111C56F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCS.MotorActivacion.WebPresentationLayer", "BCS.MotorActivacion.WebPresentationLayer\BCS.MotorActivacion.WebPresentationLayer.csproj", "{8E02816E-0EFA-427D-B4BB-545A51AC559C}"
 EndProject
