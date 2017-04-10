@@ -418,7 +418,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Administracion\" />
     <Folder Include="App_Data\" />
+    <Folder Include="Operacion\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
